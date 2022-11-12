@@ -1,0 +1,12 @@
+Name;Zip;Zone
+Aryamann;50011;1
+Boudhayan;50012;2
+Beri;50013;3
+Lund;50014;4
+hello;50012;1
+hello;50011;2
+hello;50012;1
+hello;50012;1
+hello;50012;1
+hello;50012;1
+hello;50012;1
